@@ -1,0 +1,12 @@
+﻿  EX05_04.cpp
+j:\cs172\cs172-hw05-spring2017\consoleapplication1\consoleapplication1\ex05_04.cpp(5): error C2065: 'vector': undeclared identifier
+j:\cs172\cs172-hw05-spring2017\consoleapplication1\consoleapplication1\ex05_04.cpp(5): error C2065: 'v': undeclared identifier
+j:\cs172\cs172-hw05-spring2017\consoleapplication1\consoleapplication1\ex05_04.cpp(5): error C2182: 'shuffle': illegal use of type 'void'
+  EX05_03.cpp
+  EX05_02.cpp
+j:\cs172\cs172-hw05-spring2017\consoleapplication1\consoleapplication1\ex05_02.cpp(24): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+j:\cs172\cs172-hw05-spring2017\consoleapplication1\consoleapplication1\ex05_02.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+j:\cs172\cs172-hw05-spring2017\consoleapplication1\consoleapplication1\ex05_02.cpp(25): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+j:\cs172\cs172-hw05-spring2017\consoleapplication1\consoleapplication1\ex05_02.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  EX05_01.cpp
+  Generating Code...
