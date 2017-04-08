@@ -1,6 +1,8 @@
-﻿  Source.cpp
+﻿  Account.cpp
+  Generating Code...
+  Compiling...
+  Source.cpp
 c:\users\solderr18\documents\github\cs172-hw05-spring2017\ex05_05\ex05_05\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
-  Account.cpp
   Generating Code...
   EX05_05.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW05-Spring2017\EX05_05\Debug\EX05_05.exe
   EX05_05.vcxproj -> C:\Users\solderr18\Documents\GitHub\CS172-HW05-Spring2017\EX05_05\Debug\EX05_05.pdb (Full PDB)

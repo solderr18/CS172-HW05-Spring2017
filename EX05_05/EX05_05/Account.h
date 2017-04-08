@@ -17,14 +17,12 @@ public:
 	Account() {
 		id = 0;
 		balance = 0;
-		annualInterestRate = 0;
 		name = "(:";
 	}
 	Account(string n, int iD, double blnce) {
 		name = n;
 		id = iD;
 		balance = blnce;
-		annualInterestRate = 0;
 	}
 	string getName() { return name; }
 
