@@ -1,0 +1,11 @@
+﻿  Source.cpp
+j:\cs172\cs172-hw05-spring2017\ex05_04\ex05_04\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+j:\cs172\cs172-hw05-spring2017\ex05_04\ex05_04\source.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  j:\cs172\cs172-hw05-spring2017\ex05_04\ex05_04\source.cpp(22): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+j:\cs172\cs172-hw05-spring2017\ex05_04\ex05_04\source.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  EX05_04.vcxproj -> J:\CS172\CS172-HW05-Spring2017\EX05_04\Debug\EX05_04.exe
+  EX05_04.vcxproj -> J:\CS172\CS172-HW05-Spring2017\EX05_04\Debug\EX05_04.pdb (Full PDB)
